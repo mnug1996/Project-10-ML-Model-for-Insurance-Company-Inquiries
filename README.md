@@ -1,4 +1,4 @@
-# Project 10: ML Model for Insurance Company Inquiries
+# Project 10: Using Linear Algebra and Machine Learning to Solve Insurance Company Inquiries
 
 ## Introduction to the project:
 
